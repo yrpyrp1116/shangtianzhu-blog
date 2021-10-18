@@ -1,0 +1,38 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-last-updated": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-baidu-tongji": "^1.0.1",
+    "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-plugin-one-click-copy": "^1.0.6",
+    "vuepress-plugin-zooming": "^1.1.8",
+    "vuepress-theme-vdoing": "^1.8.3"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrpyrp1116/shangtianzhu-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yrpyrp1116/shangtianzhu-blog/issues"
+  },
+  "homepage": "https://github.com/yrpyrp1116/shangtianzhu-blog#readme",
+  "description": ""
+}
