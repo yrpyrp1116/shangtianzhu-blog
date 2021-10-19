@@ -19,12 +19,12 @@ module.exports = {
   // bodyBgImgOpacity: 0.8,
   footer: {
     createYear: 2021,
-    copyrightInfo: 'coderly | <a href="https://github.com/yrpyrp1116" target="_blank">MIT License</a>'
+    copyrightInfo: '尚天竹 | <a href="https://github.com/yrpyrp1116" target="_blank">MIT License</a>'
   },
   blogger: {
     avatar: 'https://avatar-static.segmentfault.com/249/884/2498845138-602fc45007b7c_big64',
     name: '尚天竹',
-    slogan: '总有人要赢，为什么不能是我',
+    slogan: '我也不知道。。。',
   },
   author: {
     name: '尚天竹',
